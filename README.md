@@ -19,7 +19,7 @@ Docker_Basic_App/
 ## Usage
 1. Ensure Docker is installed on your system.
 2. Clone this repository:
-git clone <repository_url>
+git clone https://github.com/umeshyadav7988/Docker_Basic_App.git
 3. Navigate to the project directory:
 4. Build the Docker image:
 docker build -t docker_basic_app .
