@@ -1,0 +1,6 @@
+# ignore this file in docker image
+dummy.txt
+node_modules
+
+# ek sath sabhi txt ko ignore krne ke liye hum *.txt ka use kr skte hai
+*.txt
